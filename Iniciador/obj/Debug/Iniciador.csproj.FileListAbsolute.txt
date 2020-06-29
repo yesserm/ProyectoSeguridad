@@ -1,0 +1,10 @@
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\bin\Debug\Iniciador.exe.config
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\bin\Debug\Iniciador.exe
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\bin\Debug\Iniciador.pdb
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.csprojAssemblyReference.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.Form1.resources
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.Properties.Resources.resources
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.csproj.GenerateResource.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.csproj.CoreCompileInputs.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.exe
+C:\Users\yesse\Source\Repos\ProyectoKDC\Iniciador\obj\Debug\Iniciador.pdb

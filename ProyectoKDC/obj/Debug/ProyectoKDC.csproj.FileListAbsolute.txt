@@ -1,0 +1,10 @@
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\bin\Debug\ProyectoKDC.exe.config
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\bin\Debug\ProyectoKDC.exe
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\bin\Debug\ProyectoKDC.pdb
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.csprojAssemblyReference.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.Form1.resources
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.Properties.Resources.resources
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.csproj.GenerateResource.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.csproj.CoreCompileInputs.cache
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.exe
+C:\Users\yesse\Source\Repos\ProyectoKDC\ProyectoKDC\obj\Debug\ProyectoKDC.pdb
