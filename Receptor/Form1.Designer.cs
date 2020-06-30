@@ -102,6 +102,7 @@
             this.bt_conectar.TabIndex = 27;
             this.bt_conectar.Text = "Conectar";
             this.bt_conectar.UseVisualStyleBackColor = true;
+            this.bt_conectar.Click += new System.EventHandler(this.bt_conectar_Click);
             // 
             // tb_puerto
             // 
